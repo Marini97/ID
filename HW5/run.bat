@@ -1,0 +1,1 @@
+scrapy crawl forbes -o dataset/forbes2.json

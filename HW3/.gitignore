@@ -1,0 +1,10 @@
+*.iml
+*.idea
+target
+resources
+indexDir
+*.json
+*resources
+lucene-index
+charts
+/charts

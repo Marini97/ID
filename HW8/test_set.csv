@@ -1,0 +1,47 @@
+id,name,code,website,headquarter,country,ceo,founded,employees,market_value,market_cap,annual_revenue,business
+0,"Apple",,,"Cupertino, California, United States (USA)",,,"1976 (47 yrs old)"",,,,,"Consumer Electronics & Appliances"
+1,"Aptronix - Apple Premium Reseller",,,"Hyderabad, India",,,"2011 (12 yrs old)",,,,,"Electrical Equipment"
+2,"Facebook",,,"Menlo Park,California, United States",,,"2004 (19 yrs old)",,,,,"Internet"
+3,"Microsoft Corporation",,,"Sunnyvale, United States (USA)",,,"1975 (48 yrs old)",,,,,"Software Product"
+4,"Google",,,"Mountain View,California, United States",,,"1998 (25 yrs old)",,,,,"Internet"
+5,"Marvel Realtors",,,"Pune, India",,,"2001 (22 yrs old)",,,,,"Real Estate"
+6,"JP Morgan Chase",,,"New York, New York, United States (USA)",,,"2000 (23 yrs old)",,,,,"Investment Banking / Venture Capital / Private Equity"
+7,"LOREAL",,,"Clichy, France",,,"1991 (32 yrs old)",,,,,"Beauty & Personal Care"
+8,Apple,AAPL,https://www.apple.com,"Cupertino, CA, United States",United States,Mr. Timothy D. Cook,"April 1, 1976","100,000",,$2.825 Trillion,US$365.82 billion (2021),Consumer Electronics
+9,"Marvell Technology, Inc.",9MW,https://www.marvell.com,"Wilmington, DE, United States",United States,Mr. Matthew J. Murphy,,"6,695",,US$57.62 Billion,,Semiconductors
+10,JPMorgan,JPM,https://www.jpmorganchase.com,"New York, NY, United States",United States,Mr. James Dimon,"December 1, 2000","271,025",,$410.84 Billion,US$121.65 billion (2021),Banks
+11,Meta,META,https://investor.fb.com,"Menlo Park, CA, United States",United States,Mr. Mark Elliot Zuckerberg,"January 4, 2004","71,970",,$617.50 Billion,"US$117.929 Billion (Fiscal Year Ended December 31, 2021)",Internet Content & Information
+12,Alphabet,GOOG,https://www.abc.xyz,"Mountain View, CA, United States",United States,Mr. Sundar Pichai,"October 2, 2015","156,500",,$1.825 Trillion,US$257.6 billion (2021),Internet Content & Information
+13,Microsoft,MSFT,https://www.microsoft.com,"Redmond, WA, United States",United States,Mr. Satya Nadella,"April 4, 1975","181,000",,$2.328 Trillion,US$161 billion (2021),Software—Infrastructure
+14,L'Oréal,OR,https://www.loreal.com,"Clichy, France",France,Mr. Nicolas Hieronimus,,"85,400",,US$225.24 Billion,,Household & Personal Products
+15,APPLE,,https://www.value.today/company/apple,,USA,Tim Cook,1976,,,,"365,820 Million USD",Mobiles & Accessories
+16,MICROSOFT CORPORATION,,https://www.value.today/company/microsoft-corporation,,USA,Satya Nadella,1975,,,,"198,270 Million USD",Software and IT
+17,J P MORGAN CHASE & CO,,https://www.value.today/company/j-p-morgan-chase-co,,USA,William B. Harrison Jr.,2000,,,,"121,640 Million USD",Banking Services
+18,L'OREAL,,https://www.value.today/company/loreal,,France,Jean Paul Agon,1909,,,,"35,580 Million USD",Cosmetics
+19,META PLATFORMS,,https://www.value.today/company/facebook,,USA,Mark Zuckerberg,2004,,,,"117,930 Million USD",Internet or Mobile App Based Business
+20,ALPHABET,,https://www.value.today/company/alphabet,,USA,John L. Hennessy,2015,,,,"257,640 Million USD",Internet or Mobile App Based Business
+21,Apple Inc,,www.apple.com,"One Apple Park Way, Cupertino, California, 95014",United States of America,,,"164,000",,"$2,141.2B",$394.3B,Technology and Communications
+22,Meta Platforms Inc,,www.facebook.com,"1601 Willow Rd, Menlo Park, California, 94025-1452",United States of America,,,"87,314",,$348.8B,$117.9B,Technology and Communications
+23,J.P. Morgan Private Bank,,www.privatebank.jpmorgan.com/gl/en/home,"383 Madison Avenue, New York City, 10179-0001",United States of America,,,,,,$7.7B,Financial Services
+24,Microsoft Corp,,www.microsoft.com,"1 Microsoft Way, Redmond, Washington, 98052-6399",United States of America,,,"221,000",,"$1,757.8B",$198.3B,Technology and Communications
+25,Alphabet Inc,,abc.xyz,"1600 Amphitheatre Pkwy, Mountain View, California, 94043-1351",United States of America,,,"186,779",,"$1,183.4B",$257.6B,Technology and Communications
+26,Google LLC,,www.google.com,"1600 Amphitheatre Parkway, Mountain View, California, 94043",United States of America,,,"85,000",,,$256.7B,Technology and Communications
+27,L'Oreal SA,,www.loreal.com,"41 Rue Martre, Clichy Cedex, Ile-de-France, 92117",France,,,"85,412",,$221.6B,$38.2B,Consumer Packaged Goods
+28,Meta Platforms (Facebook),,,,usa,,,,,$358.59 B,,tech internet 
+29,Alphabet (Google),,,,usa,,,,,$1.200 T,,internet tech software autonomous-driving 
+30,L'Oréal,,,,france,,,,,$222.91 B,,consumer-goods cac-40 cosmetics 
+31,l'oreal,,,,france,Jean Paul Agon,,"85,392",249.140 Billion USD,,"35,580 Million USD",consumer defensive
+32,APPLE,,https://www.apple.com/,,USA,Tim Cook,,"154,000","2,825.000 Billion USD",,"365,820 Million USD",Mobiles & Accessories
+33,MICROSOFT CORPORATION,,https://www.microsoft.com/,,USA,Satya Nadella,,"220,000","2,358.000 Billion USD",,"198,270 Million USD",Software and IT
+34,ALPHABET,,https://abc.xyz/,,USA,Sundar Pichai,,"156,500","1,820.000 Billion USD",,"257,640 Million USD",Internet or Mobile App Based Business
+35,META PLATFORMS,,https://www.facebook.com/,,USA,Mark Zuckerberg,,"77,805",922.960 Billion USD,,"117,930 Million USD",Internet or Mobile App Based Business
+36,APPLE HOSPITALITY REIT,,https://applehospitalityreit.com,,USA,,,63,3.839 Billion USD,,933 Million USD,Consumer Services
+
+
+
+
+
+
+
+
+
